@@ -8,5 +8,4 @@
 
 ## 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,astro)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,supabase)](https://skillicons.dev)
