@@ -2,8 +2,6 @@
 
 💻 Fullstack Developer  
 ⚡ Main stack: Next.js + Node  
-📊 Building: FoccusDEV (VS Code extension that tracks coding time)
-
 ---
 
 ## 🚀 Tech Stack
