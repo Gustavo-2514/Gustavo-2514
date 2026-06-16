@@ -1,7 +1,7 @@
 # Olá, eu sou o Gustavo 👋
 
 Desenvolvedor fullstack focado em construir aplicações web
-práticas e bem feitas — do visual à API.
+práticas e bem feitas, do visual à API.
 
 Estou em busca da minha primeira oportunidade profissional.
 
