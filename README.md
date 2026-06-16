@@ -22,7 +22,7 @@ Estou em busca da minha primeira oportunidade profissional.
 
 ### [Promptzin](www.promptzin.xyz/)
 Promptzin é um projeto de portfólio focado em ser uma biblioteca de prompts para geração de imagens com IA, onde o usuário pode: Publicar um prompt + imagem, salvar prompts de outros usuários, e buscar por diversos prompts dentro da aplicação, prontos para copiar e colar.
-Construído com **Next.js** + **PostgreSQL** + *Prisma* + *Better Auth* + *Shadcn/Tailwind* etc
+Construído com **Next.js** + **PostgreSQL** + **Prisma** + **Better Auth** + **Shadcn/Tailwind** etc
 
 ### [FoccusDEV](https://github.com/Gustavo-2514/foccusdev-extension)
 FoccusDEV é uma extensão para editores de código que monitora sua atividade de codificação e exibe métricas de produtividade em um painel local.
