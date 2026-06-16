@@ -21,13 +21,13 @@ Estou em busca da minha primeira oportunidade profissional.
 
 ### [Promptzin](https://www.promptzin.xyz/)
 
-Biblioteca de prompts para geração de imagens com IA. Usuários publicam prompts com imagem, salvam favoritos e buscam por tag ou modelo — tudo pronto para copiar e usar. Inclui painel admin com moderação e fluxo completo de autenticação social.
+Biblioteca de prompts para geração de imagens com IA. Usuários publicam prompts com imagem, salvam favoritos e buscam por tag ou modelo, tudo pronto para copiar e usar. Inclui painel admin com moderação e fluxo completo de autenticação social.
 
 `Next.js` `Better Auth` `Prisma` `Supabase` `TanStack Query` `Upstash` `Cloudflare` `Vercel`
 
 ### [FoccusDEV](https://github.com/Gustavo-2514/foccusdev-extension)
 
-Extensão para editores de código que monitora sua atividade de desenvolvimento e exibe métricas de produtividade em um painel local — sem depender de nenhum serviço externo. Tempo por projeto, top linguagens e visão por dia da semana.
+Extensão para editores de código que monitora sua atividade de desenvolvimento e exibe métricas de produtividade em um painel local, sem depender de nenhum serviço externo. Tempo por projeto, top linguagens e visão por dia da semana.
 
 `TypeScript` `SQLite`
 
