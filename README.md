@@ -2,7 +2,7 @@
 
 Fullstack com foco em Next.js, construo do layout ao banco de dados, com atenção a escalabilidade, segurança e arquitetura limpa
 
-Estou em busca da minha primeira oportunidade profissional.
+Estou em busca da minha primeira oportunidade profissional como programador.
 
 ---
 
